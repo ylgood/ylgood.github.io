@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[8],{k5WL:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),r=t.n(a);e["default"]=function(){return r.a.createElement(r.a.Fragment,null,r.a.createElement("div",{onClick:function(){return localStorage.clear()}},"\u6e05\u7a7a"))}}}]);
